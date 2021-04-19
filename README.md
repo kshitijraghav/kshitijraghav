@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Raghav</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 - 🔭 I’m currently working on <b>Open Source Contributions in Django Framework</b>
 
 - 💬 Ask me about <b>Data Structures & Algorithmic Problems</b>
